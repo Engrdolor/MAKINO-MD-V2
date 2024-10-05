@@ -1,6 +1,6 @@
 
 {
-    "name": "MAKINO-MD-V2",
+    "name": "Engrdolor",
     "description": "A whatsApp bot based on Baileysjs linrary (Ts+Js) with Multi Device support",
     "repository": "https://github.com/anonphoenix007/MAKINO-MD-V2",
     "logo": "https://telegra.ph/file/7aa528767ed96ddc17bc2.jpg",
@@ -8,7 +8,7 @@
     "env": {
     "SESSION_ID": {
       "description": "your session ID here",
-      "value": "",
+      "value": "taira_tech-W8kAjD5A#xo7Qpvf3KOGg4jLPlYHUE64XlpZcU0i2DP4Nxwg3SQk",
       "required": true
     }
     },
